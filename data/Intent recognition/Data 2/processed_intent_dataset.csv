@@ -1,0 +1,144 @@
+text,intent
+hi,Greeting
+hi there,Greeting
+hola,Greeting
+hello,Greeting
+hello there,Greeting
+hya,Greeting
+hya there,Greeting
+my user is adam,GreetingResponse
+this is adam,GreetingResponse
+i am adam,GreetingResponse
+it is adam,GreetingResponse
+my user is bella,GreetingResponse
+this is bella,GreetingResponse
+i am bella,GreetingResponse
+it is bella,GreetingResponse
+how are you,CourtesyGreeting
+hi how are you,CourtesyGreeting
+hello how are you,CourtesyGreeting
+hola how are you,CourtesyGreeting
+how are you doing,CourtesyGreeting
+hope you are doing well,CourtesyGreeting
+hello hope you are doing well,CourtesyGreeting
+good thanks my user is adam,CourtesyGreetingResponse
+good thanks this is adam,CourtesyGreetingResponse
+good thanks i am adam,CourtesyGreetingResponse
+good thanks it is adam,CourtesyGreetingResponse
+great thanks my user is bella,CourtesyGreetingResponse
+great thanks this is bella,CourtesyGreetingResponse
+great thanks i am bella,CourtesyGreetingResponse
+great thanks it is bella,CourtesyGreetingResponse
+what is my name,CurrentHumanQuery
+what do you call me,CurrentHumanQuery
+who do you think i am,CurrentHumanQuery
+what do you think i am,CurrentHumanQuery
+who are you talking to,CurrentHumanQuery
+what name do you call me by,CurrentHumanQuery
+tell me my name,CurrentHumanQuery
+what is your name,NameQuery
+what could i call you,NameQuery
+what can i call you,NameQuery
+what do your friends call you,NameQuery
+who are you,NameQuery
+tell me your name,NameQuery
+what is your real name,RealNameQuery
+what is your real name please,RealNameQuery
+whats your real name,RealNameQuery
+tell me your real name,RealNameQuery
+your real name,RealNameQuery
+your real name please,RealNameQuery
+your real name please,RealNameQuery
+what is the time,TimeQuery
+whats the time,TimeQuery
+do you know what time it is,TimeQuery
+do you know the time,TimeQuery
+can you tell me the time,TimeQuery
+tell me what time it is,TimeQuery
+time,TimeQuery
+ok thank you,Thanks
+ok thanks,Thanks
+ok,Thanks
+thanks,Thanks
+thank you,Thanks
+thats helpful,Thanks
+i am not talking to you,NotTalking2U
+i was not talking to you,NotTalking2U
+not talking to you,NotTalking2U
+wasnt for you,NotTalking2U
+wasnt meant for you,NotTalking2U
+wasnt communicating to you,NotTalking2U
+wasnt speaking to you,NotTalking2U
+do you understand what i am saying,UnderstandQuery
+do you understand me,UnderstandQuery
+do you know what i am saying,UnderstandQuery
+do you get me,UnderstandQuery
+comprendo,UnderstandQuery
+know what i mean,UnderstandQuery
+be quiet,Shutup
+shut up,Shutup
+stop talking,Shutup
+enough talking,Shutup
+please be quiet,Shutup
+quiet,Shutup
+shhh,Shutup
+fuck off,Swearing
+fuck,Swearing
+twat,Swearing
+shit,Swearing
+bye,GoodBye
+adios,GoodBye
+see you later,GoodBye
+goodbye,GoodBye
+thanks bye,CourtesyGoodBye
+thanks for the help goodbye,CourtesyGoodBye
+thank you bye,CourtesyGoodBye
+thank you goodbye,CourtesyGoodBye
+thanks goodbye,CourtesyGoodBye
+thanks good bye,CourtesyGoodBye
+can you see me,WhoAmI
+do you see me,WhoAmI
+can you see anyone in the camera,WhoAmI
+do you see anyone in the camera,WhoAmI
+identify me,WhoAmI
+who am i please,WhoAmI
+you are very clever,Clever
+you are a very clever girl,Clever
+you are very intelligent,Clever
+you are a very intelligent girl,Clever
+you are a genious,Clever
+clever girl,Clever
+genious,Clever
+i am bored gossip with me,Gossip
+got any gossip,Gossip
+i want to hear some gossip,Gossip
+tell me some gossip,Gossip
+any gossip,Gossip
+tell me some more gossip,Gossip
+tell me a joke,Jokes
+do you know any jokes,Jokes
+how about a joke,Jokes
+give me a joke,Jokes
+make me laugh,Jokes
+i need cheering up,Jokes
+open the pod bay door,PodBayDoor
+can you open the pod bay door,PodBayDoor
+will you open the pod bay door,PodBayDoor
+open the pod bay door please,PodBayDoor
+can you open the pod bay door please,PodBayDoor
+will you open the pod bay door please,PodBayDoor
+pod bay door,PodBayDoor
+why,PodBayDoorResponse
+why not,PodBayDoorResponse
+why can you not open the pod bay door,PodBayDoorResponse
+why will you not open the pod bay door,PodBayDoorResponse
+well why not,PodBayDoorResponse
+surely you can,PodBayDoorResponse
+tell me why,PodBayDoorResponse
+can you prove you are selfaware,SelfAware
+can you prove you are self aware,SelfAware
+can you prove you have a conscious,SelfAware
+can you prove you are selfaware please,SelfAware
+can you prove you are self aware please,SelfAware
+can you prove you have a conscious please,SelfAware
+prove you have a conscious,SelfAware
