@@ -1,0 +1,144 @@
+text,intent,text_length
+hi,Greeting,2
+hi there,Greeting,8
+hola,Greeting,4
+hello,Greeting,5
+hello there,Greeting,11
+hya,Greeting,3
+hya there,Greeting,9
+my user is adam,GreetingResponse,15
+this is adam,GreetingResponse,12
+i am adam,GreetingResponse,9
+it is adam,GreetingResponse,10
+my user is bella,GreetingResponse,16
+this is bella,GreetingResponse,13
+i am bella,GreetingResponse,10
+it is bella,GreetingResponse,11
+how are you,CourtesyGreeting,11
+hi how are you,CourtesyGreeting,14
+hello how are you,CourtesyGreeting,17
+hola how are you,CourtesyGreeting,16
+how are you doing,CourtesyGreeting,17
+hope you are doing well,CourtesyGreeting,23
+hello hope you are doing well,CourtesyGreeting,29
+good thanks my user is adam,CourtesyGreetingResponse,27
+good thanks this is adam,CourtesyGreetingResponse,24
+good thanks i am adam,CourtesyGreetingResponse,21
+good thanks it is adam,CourtesyGreetingResponse,22
+great thanks my user is bella,CourtesyGreetingResponse,29
+great thanks this is bella,CourtesyGreetingResponse,26
+great thanks i am bella,CourtesyGreetingResponse,23
+great thanks it is bella,CourtesyGreetingResponse,24
+what is my name,CurrentHumanQuery,15
+what do you call me,CurrentHumanQuery,19
+who do you think i am,CurrentHumanQuery,21
+what do you think i am,CurrentHumanQuery,22
+who are you talking to,CurrentHumanQuery,22
+what name do you call me by,CurrentHumanQuery,27
+tell me my name,CurrentHumanQuery,15
+what is your name,NameQuery,17
+what could i call you,NameQuery,21
+what can i call you,NameQuery,19
+what do your friends call you,NameQuery,29
+who are you,NameQuery,11
+tell me your name,NameQuery,17
+what is your real name,RealNameQuery,22
+what is your real name please,RealNameQuery,29
+whats your real name,RealNameQuery,20
+tell me your real name,RealNameQuery,22
+your real name,RealNameQuery,14
+your real name please,RealNameQuery,21
+your real name please,RealNameQuery,21
+what is the time,TimeQuery,16
+whats the time,TimeQuery,14
+do you know what time it is,TimeQuery,27
+do you know the time,TimeQuery,20
+can you tell me the time,TimeQuery,24
+tell me what time it is,TimeQuery,23
+time,TimeQuery,4
+ok thank you,Thanks,12
+ok thanks,Thanks,9
+ok,Thanks,2
+thanks,Thanks,6
+thank you,Thanks,9
+thats helpful,Thanks,13
+i am not talking to you,NotTalking2U,23
+i was not talking to you,NotTalking2U,24
+not talking to you,NotTalking2U,18
+wasnt for you,NotTalking2U,13
+wasnt meant for you,NotTalking2U,19
+wasnt communicating to you,NotTalking2U,26
+wasnt speaking to you,NotTalking2U,21
+do you understand what i am saying,UnderstandQuery,34
+do you understand me,UnderstandQuery,20
+do you know what i am saying,UnderstandQuery,28
+do you get me,UnderstandQuery,13
+comprendo,UnderstandQuery,9
+know what i mean,UnderstandQuery,16
+be quiet,Shutup,8
+shut up,Shutup,7
+stop talking,Shutup,12
+enough talking,Shutup,14
+please be quiet,Shutup,15
+quiet,Shutup,5
+shhh,Shutup,4
+fuck off,Swearing,8
+fuck,Swearing,4
+twat,Swearing,4
+shit,Swearing,4
+bye,GoodBye,3
+adios,GoodBye,5
+see you later,GoodBye,13
+goodbye,GoodBye,7
+thanks bye,CourtesyGoodBye,10
+thanks for the help goodbye,CourtesyGoodBye,27
+thank you bye,CourtesyGoodBye,13
+thank you goodbye,CourtesyGoodBye,17
+thanks goodbye,CourtesyGoodBye,14
+thanks good bye,CourtesyGoodBye,15
+can you see me,WhoAmI,14
+do you see me,WhoAmI,13
+can you see anyone in the camera,WhoAmI,32
+do you see anyone in the camera,WhoAmI,31
+identify me,WhoAmI,11
+who am i please,WhoAmI,15
+you are very clever,Clever,19
+you are a very clever girl,Clever,26
+you are very intelligent,Clever,24
+you are a very intelligent girl,Clever,31
+you are a genious,Clever,17
+clever girl,Clever,11
+genious,Clever,7
+i am bored gossip with me,Gossip,25
+got any gossip,Gossip,14
+i want to hear some gossip,Gossip,26
+tell me some gossip,Gossip,19
+any gossip,Gossip,10
+tell me some more gossip,Gossip,24
+tell me a joke,Jokes,14
+do you know any jokes,Jokes,21
+how about a joke,Jokes,16
+give me a joke,Jokes,14
+make me laugh,Jokes,13
+i need cheering up,Jokes,18
+open the pod bay door,PodBayDoor,21
+can you open the pod bay door,PodBayDoor,29
+will you open the pod bay door,PodBayDoor,30
+open the pod bay door please,PodBayDoor,28
+can you open the pod bay door please,PodBayDoor,36
+will you open the pod bay door please,PodBayDoor,37
+pod bay door,PodBayDoor,12
+why,PodBayDoorResponse,3
+why not,PodBayDoorResponse,7
+why can you not open the pod bay door,PodBayDoorResponse,37
+why will you not open the pod bay door,PodBayDoorResponse,38
+well why not,PodBayDoorResponse,12
+surely you can,PodBayDoorResponse,14
+tell me why,PodBayDoorResponse,11
+can you prove you are selfaware,SelfAware,31
+can you prove you are self aware,SelfAware,32
+can you prove you have a conscious,SelfAware,34
+can you prove you are selfaware please,SelfAware,38
+can you prove you are self aware please,SelfAware,39
+can you prove you have a conscious please,SelfAware,41
+prove you have a conscious,SelfAware,26
