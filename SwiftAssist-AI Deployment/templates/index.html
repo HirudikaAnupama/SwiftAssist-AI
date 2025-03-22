@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SwiftAssist-AI Chatbot</title>
+  <!-- Link to CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="chat-wrapper">
+    <header class="chat-header">
+      <!-- If you don't want a logo, remove the img tag below -->
+      <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+      <h1>SwiftAssist AI Chat</h1>
+    </header>
+
+    <div class="chat-container">
+      <div id="chat-window">
+        <div id="messages"></div>
+      </div>
+
+      <form id="chat-form">
+        <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" required>
+        <button type="submit" id="send-btn">
+          <!-- Send Icon (SVG) -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+            <path fill="#fff" d="M3.4 21l17.2-9L3.4 3v7l10 2-10 2z"/>
+          </svg>
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Link to your external JS file -->
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
